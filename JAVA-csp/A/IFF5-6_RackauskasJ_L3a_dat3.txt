@@ -1,0 +1,45 @@
+Informatikos 4
+Antanas 1 6.9
+Kazys 2 8.6
+Petras 2 7.0
+Sonata 3 9.1
+Ekonomikos 5
+Arturas 2 7.0
+Jonas 1 6.9
+Martynas 3 9.1
+Robertas 3 6.4
+Vacys 2 8.6
+Mechanikos 6
+Aldona 3 7.0
+Arturas 5 6.9
+Asta 2 7.0
+Mykolas 1 6.9
+Viktoras 2 8.6
+Vytas 3 7.8
+Statybos 4
+Arturas 2 7.0
+Jonas 1 6.9
+Simas 3 6.4
+Zigmas 3 8.1
+Menu 5
+Anele 2 8.5
+Ieva 3 8.5
+Justas 5 8.1
+Rolandas 8 9.5
+Steponas 4 6.8
+V1 4
+6.9 1
+9.9 2
+9.5 1
+9.9 1
+V2 2
+6.4 2
+7.0 5
+V3 2
+9.1 2
+7.8 1
+V4 4
+8.6 3
+9.9 4
+6.8 1
+8.5 2
